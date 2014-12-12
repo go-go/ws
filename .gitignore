@@ -1,0 +1,5 @@
+gin-bin
+.sublime*
+.idea/*
+*.swp
+*.swo
